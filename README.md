@@ -27,7 +27,7 @@ Afișează: 'Aria dreptunghiului este x'.
 ● Printează rezultatul.
 10. Același string:
 ● Folosește un assert ca să verifici dacă acest string conține doar numere.
-Exerciții Opționale - grad de dificultate: Mediu spre greu (s-ar putea să ai
+EXERCITII OPTIONALE - grad de dificultate: Mediu spre greu (s-ar putea să ai
 nevoie de Google).
 1. Exercițiu:
 - citește de la tastatură un string de dimensiune impară;
